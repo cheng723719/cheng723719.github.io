@@ -1,13 +1,13 @@
 # Site settings
-name: Less Or More
+name: Cheng
 email: oper_0@126.com
 author: oper
 url: http://www.oper.fun
 resume_site: https://cheng723719.github.io/
 github: https://cheng723719.github.io/
 baseurl: ""
-description: Actually, less is more!
-meta_description: 以梦为马
+description: ""
+meta_description: ""
 motto: It's our wits that make us men.
 banner: 学而不思则罔，思而不学则殆。
 
@@ -23,4 +23,3 @@ github_username: cheng723719
 markdown: kramdown
 
 baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
-
